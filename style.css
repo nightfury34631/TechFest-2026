@@ -1,0 +1,22 @@
+.banner-box{
+    margin-left: 120px;
+    margin-right: 120px;
+    background-color: lightblue;
+    padding: 30px;
+    text-align: center;
+}
+.banner-box h1{
+    font-size: 40px;
+}
+.banner-box p{
+    font-size: 20px;
+}
+table,th,td{
+    border: 1px solid black;
+}
+table{
+    border-collapse: collapse;
+}
+th,td{
+    padding: 5px;
+}
